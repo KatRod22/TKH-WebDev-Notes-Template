@@ -5,7 +5,7 @@
 
 ___
 
-### Day 1, [month]/[day]
+### Day 1, [September]/[19]
 
 #### 🗒️Notes from class:
 
@@ -15,16 +15,16 @@ ___
 #### 💭Daily Reflection:
 
 💡3 Things I learned today:
-1. 
-2. 
-3. 
+1. How to create branches in repositories
+2. Make changes to a file and then push.
+3. Open and merge a Pull request.
 
 👁️Two things I would like to know more about:
-1. 
-2. 
+1. Managing branches better
+2. Getting more comfortable with git
 
 ✋One thing I'm having trouble understanding:
-1. 
+1. Having patience when commands do not work immediately
 
 
 ___
